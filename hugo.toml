@@ -1,0 +1,20 @@
+baseURL = 'http://activemetro.org/'
+languageCode = 'en-us'
+title = 'Portland Metro Active Transit Advocates'
+theme = 'hugo-xmin'
+
+[menu]
+[[menu.main]]
+ name = "Home"
+ url = ""
+ weight = 1
+[[menu.main]]
+ name = "About"
+ url = "about/"
+ weight = 2
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
