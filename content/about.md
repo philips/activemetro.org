@@ -28,8 +28,3 @@ I grew up in Sherwood and Tualatin and like many suburban millenials much of my 
 After graduating from Oregon State University in 2007 I moved to the City of Portland and maintained a low car lifestyle. A few years later we (my wife and I) sold our cars and moved to San Francisco for a decade where we biked to work when the weather permitted (which is most days if you know San Francisco's mild climate).
 
 We moved back to the Portland Metro area in 2020 with two children under 4 years old and started trying to figure out how to maintain a low car lifestyle and ensure our children have a semblance of freedom in their childhood by utilizing their own legs to get around their neighborhood and to school. And it turns out we found a few like minded people but I wanted to get more organized. So, here I am.
-
-
-## Friendly Groups
-
-- [Bike Portland]
