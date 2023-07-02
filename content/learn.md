@@ -6,8 +6,7 @@ title: Learn
 
 These channels have excellent video essays laying out how American transit infrastructure can improve to enable people of all ages and abilities to get out of their cars for their transit.
 
-**[Not Just Bikes](https://www.youtube.com/@NotJustBikes)**: Stories of great urban planning and urban experiences from the Netherlands and beyond. There are a lot of reasons why Dutch cities are so great; it's not just bikes.
-- [Stroads are Ugly, Expensive, and Dangerous (and they're everywhere)](https://www.youtube.com/watch?v=ORzNZUeUHAM)
+**[Not Just Bikes](https://www.youtube.com/@NotJustBikes)**: Stories of great urban planning and urban experiences from the Netherlands and beyond. There are a lot of reasons why Dutch cities are so great; it's not just bikes.  - [Stroads are Ugly, Expensive, and Dangerous (and they're everywhere)](https://www.youtube.com/watch?v=ORzNZUeUHAM)
 - [The Wrong Way to Set Speed Limits)](https://www.youtube.com/watch?v=bglWCuCMSWc)
 
 **[Road Guy Rob](https://www.youtube.com/@RoadGuyRob)**: We use transportation every day.  Let's stop and explore how it works! 
@@ -20,6 +19,7 @@ These channels have excellent video essays laying out how American transit infra
 ## Regional Organizations
 
 - [BikePortland](https://bikeportland.org) is a news company that covers transportation in the Portland region.
+  - [Portland Traffic Fatality Tracker](https://bikeportland.org/fatality-tracker)
 - [WashCo Bikes](https://washcobikes.org) makes bicyclists and bicycling better in Washington County – through education, encouragement, and advocacy.
 
 ## National Organizations
