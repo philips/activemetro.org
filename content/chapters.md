@@ -1,8 +1,6 @@
 ---
-title: Chapters
+title: Portland Metro Active Transit Chapters
 ---
-
-## Chapters
 
 Ideally there will be a chapter for every municipality in the Portland Metro area. But, for now we are starting small with one in Bethany.
 
