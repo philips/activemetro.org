@@ -13,9 +13,13 @@ theme = 'hugo-xmin'
  url = "learn/"
  weight = 2
 [[menu.main]]
+ name = "Chapters"
+ url = "chapters/"
+ weight = 3
+[[menu.main]]
  name = "About"
  url = "about/"
- weight = 3
+ weight = 4
 
 [markup]
   [markup.goldmark]
