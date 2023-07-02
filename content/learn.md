@@ -1,5 +1,5 @@
 ---
-title: Learn
+title: Active Transit Learning Resources
 ---
 
 ## YouTube Channels
